@@ -4,8 +4,7 @@
 ### :raising_hand: About me
 
 
-  + 무럭무럭 자라고 있는 주니어 백엔드 엔지니어 입니다🌱  
-  + 등산과 크로스핏을 좋아합니다:muscle:
+
   
 
 ### :high_brightness: Technology Stack
