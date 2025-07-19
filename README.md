@@ -1,11 +1,7 @@
 
 <p align="center"><a href="#"><img width="40%" src="https://user-images.githubusercontent.com/57280699/208341939-4fa9895c-0ef3-4104-aebb-5ddef94e614a.png" /></a></p>
 
-### :raising_hand: About me
 
-
-
-  
 
 ### :high_brightness: Technology Stack
 #### Platforms & Languages
